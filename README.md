@@ -15,3 +15,9 @@ lala.
 * cd scm/kirstj/scratchbox
 * ls -la
 * git status
+
+### 3 Stufen
+
+* git add . => staged
+* git commit -m "some change" => committed
+* git push => pushed
